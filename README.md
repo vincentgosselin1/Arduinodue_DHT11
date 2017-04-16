@@ -4,8 +4,10 @@ To INSTALL
 
 1. Simply clone this repository in your Arduino/libraries file path.
 
-2. Then Sketch/Include Libraries/Manage Libraries, wait until the Upgrade reaches 100%.
+2. Then Sketch/Include Libraries/Manage Libraries, wait until the Update reaches 100%.
    Close Library Manager.
+
+3. Sketch/Include Libraries   
 
 To USE
 
